@@ -1,2 +1,2 @@
-# main
-This is the first repo
+# This is the forst readme file
+Trying to learn GitHub
